@@ -1,5 +1,3 @@
-# Python Project on Currency Converter
-
 import requests
 from tkinter import *
 import tkinter as tk
